@@ -6,8 +6,7 @@ while keep_going == "Yes" or keep_going == "yes":
 
     distance = float(input("Please enter the distance and press enter.\n"))
     time = float(input("Please enter the time and press enter.\n"))
-
-    speed = distance / time
+fbhnujrigjeogbherigh
 
     print(f"Using the distance of {distance} and time of {time} seconds, the speed is {speed} m/s.\n" )
 
